@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/LadderNet" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/MSRCR_Python" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/PaddleSeg" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/VesselSeg-Pytorch" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/retina-unet" vcs="Git" />
+  </component>
+</project>
